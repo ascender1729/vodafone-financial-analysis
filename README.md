@@ -38,7 +38,8 @@ vodafone-financial-analysis/
 │   ├── vocabulary.rtf              # Vocabulary list
 │   └── vodafone_annual_report.pdf  # Source PDF
 ├── docs/
-│   └── workflow.png                # Solution workflow diagram
+│   ├──  workflow.svg                # Solution workflow diagram
+│   └── Crediflow_AI_Assignment.ipynb 
 └── README.md
 ```
 
@@ -52,7 +53,7 @@ vodafone-financial-analysis/
 ## Solution Architecture
 
 [//]: # "Insert workflow diagram here"
-![Solution Workflow](docs/workflow.png)
+![Solution Workflow](docs/workflow.svg)
 
 ## Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hrjoKFIDsxRZfuGJYMr_vTO_YlUR3wXd?usp=sharing)
