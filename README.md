@@ -92,13 +92,9 @@ Results available in:
 - Batch processing capabilities
 - Enhanced error handling
 - Improved OCR accuracy
-- Caching for API calls
 
 #### Feature Additions
 - Support for multiple file formats
-- Automated validation rules
-- Interactive visualization
-- API interface
 
 #### Quality Enhancements
 - Comprehensive validation
