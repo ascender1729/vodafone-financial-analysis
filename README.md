@@ -59,7 +59,7 @@ vodafone-financial-analysis/
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hrjoKFIDsxRZfuGJYMr_vTO_YlUR3wXd?usp=sharing)
 
 ### Quick Start
-1. Add input files to `/input` directory
+1. Add input files from `/input` directory to the notebook
 2. Run text extraction notebook
 3. Process financial tables
 4. Check outputs in respective directories
